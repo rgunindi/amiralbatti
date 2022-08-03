@@ -26,7 +26,7 @@
 * npm start
 
 ## Youtube Video 
-[Preview Link](https://)
+[Preview Link](https://youtu.be/RfoLBi_49HQ)
 
 ## Contact Information 
 [Linkedin](https://www.linkedin.com/in/ramazan-g%C3%BCnindi)
